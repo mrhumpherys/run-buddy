@@ -216,7 +216,7 @@ section {
     display:inline-block;
 }
 .contact-info h3 {
-    color: #fce138
+    color: #fce138;
     font-size: 32px;
 }
 .contact-info p, .contact-right {
@@ -228,4 +228,8 @@ section {
   
 .contact-right a {
     color: #fce138;
+}
+.hero-secondary {
+    background-color: black;
+    color: red;
 }
