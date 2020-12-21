@@ -12,3 +12,5 @@ http://mrhumpherys.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Michael Humpherys
+
+### ©️2019 Run Buddy, Inc
